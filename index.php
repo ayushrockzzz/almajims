@@ -9,7 +9,7 @@
     </div>
     <div class="row col-sm-12 ">
         <div class="col-xl-3 col-lg-3 col-md-3 col-xm-3 col-sm-3 p-1 shadow">
-            <div class="card bg-info" >
+            <div class="" style="background-color: #e3f2fd" >
                 <img class="card-img-top rounded-circle p-3" height="130px" width="130px"  src="images/img1.png" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Ayush</h5>
