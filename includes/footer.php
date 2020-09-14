@@ -1,4 +1,5 @@
 <!-- Footer -->
+<!-- himanshugit -->
 <section id="footer" style="background-color: #e3f2fd;">
 		<div class="container">
 			<div class="row text-center text-xs-center text-sm-left text-md-left">
@@ -9,7 +10,7 @@
 						<li><a href="#"><i class="fa fa-angle-double-right"></i>About</a></li>
 						<li><a href="#"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
 						<li><a href="#"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="#"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="www.google.com"><i class="fa fa-angle-double-right"></i>Videos</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-4 col-md-4">
