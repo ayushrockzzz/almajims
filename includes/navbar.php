@@ -64,6 +64,12 @@
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
           <i class="fas fa-search"></i>
         </button>
+        <button class="notification btn btn-outline-success my-2 my-sm-0">
+        <i class="far fa-comment-alt"></i>
+        </button>
+        <button class="notification btn btn-outline-success my-2 my-sm-0">
+        <i class="fas fa-bell"></i>
+        </button>
       </form>
     </div>
   </div>

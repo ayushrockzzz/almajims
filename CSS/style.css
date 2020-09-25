@@ -3,7 +3,9 @@
     left: 50%;
     position: absolute;
   }
-
+.notification{
+    margin-left: 1rem;
+}
 .mainHeadLine{
     font-size: 2rem;
     padding-top: 1.5rem;
@@ -18,11 +20,19 @@
 
 }
 /* Profile Image on index page */
-.profileImageIndex{
-    
-}
+
 .profileImageIndex img{
     height: 50%;
     width: 50%;
     border-radius: 50%;
 }
+
+
+.nav-link:after {
+    display:block;
+    content: '';
+    border-bottom: solid 3px black;  
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+  }
+  a:hover:after { transform: scaleX(1); }
