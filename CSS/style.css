@@ -1,8 +1,12 @@
+
 .navbar-brand {
     transform: translateX(-50%);
     left: 50%;
     position: absolute;
   }
+.bodyClassStyle{
+    background-color:#DCDCDC;
+}
 
 .mainHeadLine{
     font-size: 2rem;
@@ -12,6 +16,7 @@
 }
 
 .profilesection{
+    background-color: whitesmoke;
     border: 1px solid bisque;
     padding: 1rem;
     /* background-color: #e3f2fd */
@@ -19,10 +24,14 @@
 }
 /* Profile Image on index page */
 .profileImageIndex{
-    
+    margin: auto; 
 }
 .profileImageIndex img{
     height: 50%;
     width: 50%;
     border-radius: 50%;
+}
+
+.profilecardBody{
+    padding-top: 10px;
 }

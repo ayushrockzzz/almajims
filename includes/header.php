@@ -11,4 +11,4 @@
     <link rel="stylesheet" href="CSS/style.css">
     <title>Document</title>
 </head>
-<body class="bg-light">
+<body class="bodyClassStyle">

@@ -8,13 +8,12 @@
         </div>
     </div>
     <div class="row col-sm-12 ">
-        <div class="col-xl-3 col-lg-3 col-md-3 col-xm-3 col-sm-3 p-1 ">
+        <div class="text-center col-xl-3 col-lg-3 col-md-3 col-xm-3 col-sm-3">
             <div class="profilesection" style="" >
                 <div class="profileImageIndex">
                     <img class="card-img-top  p-3" src="images/img1.png" alt="Card image cap">
                 </div>
-                <hr>
-                <div class="card-body">
+                <div class="card-body profilecardBody">
                     <h5 class="card-title">Ayush</h5>
                     <p class="card-text"></p>
                 </div>
