@@ -41,7 +41,7 @@
 						<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
 						<li class="list-inline-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
 						<li class="list-inline-item"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-						<li class="list-inline-item"><a href="#" target="_blank"><i class="fa fa-envelope"></i></a></li>
+						<li class="list-inline-item"><a href="#" target="_blank"></a></li>
 					</ul>
 				</div>
 				<hr>
