@@ -4,6 +4,18 @@
     left: 50%;
     position: absolute;
   }
+  .nav-link:after {
+    display:block;
+    content: '';
+    border-bottom: solid 3px black;  
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+  }
+  a:hover:after { transform: scaleX(1); }
+
+  .notification{
+    margin-left: 1rem;
+}
 .bodyClassStyle{
     background-color:#DCDCDC;
 }
