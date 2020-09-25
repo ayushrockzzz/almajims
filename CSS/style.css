@@ -1,5 +1,7 @@
 
-
+.bodyClassStyle{
+    background-color:#DCDCDC;
+}
 .mainHeadLine{
     font-size: 2rem;
     padding-top: 1.5rem;
@@ -8,6 +10,7 @@
 }
 
 .profilesection{
+    background-color: whitesmoke;
     border: 1px solid bisque;
     padding: 1rem;
     /* background-color: #e3f2fd */
@@ -15,10 +18,14 @@
 }
 /* Profile Image on index page */
 .profileImageIndex{
-    
+    margin: auto; 
 }
 .profileImageIndex img{
     height: 50%;
     width: 50%;
     border-radius: 50%;
+}
+
+.profilecardBody{
+    padding-top: 10px;
 }
