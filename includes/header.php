@@ -2,13 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
-    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="css/animate.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.css" />
+    <link rel="stylesheet" href="css/fonts.css" />
+    <link rel="stylesheet" href="css/flaticon.css" />
+    <link rel="stylesheet" href="css/owl.carousel.css" />
+    <link rel="stylesheet" href="css/owl.theme.default.css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" />
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/datepicker.css">
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/responsive.css" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta name="description" content="Karam Darshan" />
+    <meta name="keywords" content="Karam Darshan" />
+    <meta name="author" content="" />
+    <meta name="MobileOptimized" content="320" />
     <title>Document</title>
 </head>
 <body class="bodyClassStyle">
